@@ -1,0 +1,4 @@
+AImeetenv/
+.vscode/
+env/
+__pycache__/
